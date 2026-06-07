@@ -5,7 +5,7 @@
     --display-font: Gorditas;
     --body-font: Englebert, Arial;
 
-    --darkest: #1a1a1a;
+    --darkest: #05135f;
     --color-1: #5a90e1;
     --color-2: #e70d97;
     --lightest: #d8d8d8;
@@ -17,8 +17,8 @@
 body{
     padding:0;margin:0;
     font-family:var(--body-font);
-    background-image: url(./bg.jpg);
-    background-size: cover;
+    background-image: url(/site/ass/stars5.gif);
+    background-size:auto;
     background-attachment: fixed;
 }
 
